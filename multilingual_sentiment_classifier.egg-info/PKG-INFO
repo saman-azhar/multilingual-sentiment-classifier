@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: multilingual-sentiment-classifier
-Version: 0.0.9
+Version: 1.6
 Summary: A Python library to predict sentiments of textual data in English, Urdu or Roman Urdu
 Home-page: https://github.com/saman-azhar/multilingual-sentiment-classifier
 Author: saman azhar, areesha ramzan, hamnna ayemen
